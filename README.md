@@ -20,6 +20,11 @@ MCA graduate passionate about building innovative software solutions. Experience
 
 ## 🚀 Featured Projects
 
+### 🪴 [AgroSmart](link-to-repo)
+Eco-friendly marketplace and recommendation system built with **Java Spring Boot**, **Python** & **PostgreSQL**
+- Fertlizer recommendations based on weather conditions
+- User-friendly marketplace
+
 ### 🌱 [SwapKart](link-to-repo)
 Eco-friendly marketplace built with **Java Spring Boot** & **PostgreSQL**
 - RESTful APIs for product management
@@ -30,10 +35,10 @@ Secure messaging app with **Python Django** & **End-to-End Encryption**
 - Triple-layer authentication (Password, OTP, Face Recognition)
 - Privacy-focused communication
 
-### ⚡ [Electricity Bill Manager](link-to-repo)
-Bill tracking system built with **PHP**
-- Payment processing & billing history
-- User dashboard & complaint management
+### ⚡ [Task Manager API](link-to-repo)
+A complete CRUD functionality task management built with **Java Spring Boot** & **Rest APIs**
+- Restful Architecture
+- Task Mangement Rest API
 
 ---
 
